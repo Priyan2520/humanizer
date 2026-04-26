@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✍️ Humanizer
 
 > *Turn robotic, AI-generated, or overly formal text into warm, conversational language — instantly.*
@@ -204,3 +205,6 @@ git checkout -b feat/my-improvement
 ---
 
 *Hand-made with ☕ and kindness — by [Priyan2520](https://github.com/Priyan2520)*
+=======
+# humanizer
+>>>>>>> ee2e7601aa37ca071efa3da06d0828b6534c5f7f
